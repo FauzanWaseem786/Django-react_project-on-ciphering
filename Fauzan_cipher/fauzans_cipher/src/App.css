@@ -1,0 +1,30 @@
+body{
+	background-image:url('hck.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.about{
+	height:200px;
+}
+.card{
+	margin-top:100px;
+	
+}
+.materialboxed{
+	 border: 5px solid gray;
+	 height: 300px;
+	
+}
+.page-footer{
+	margin-top:17%;
+}
+.fm{
+	margin: 5%;
+}
+.bottom{
+	margin-top:10%;
+}
+.mn{
+	background-image: none;
+}
